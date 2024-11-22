@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hello there!
 
-<!--
-**SethMcNabb/SethMcNabb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Seth McNabb and I am studying Software Engineering at BYU-Idaho. 
+I am currently working on building an MVC website With JavaScript and Node.js.
+Next semester I will be diving into more web and app development. 
 
-Here are some ideas to get you started:
+I have completed projects using:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python, HTML, CSS, JavaScript, Node JS, C#
+
+I look forward to learning much more!
+
+Reach me at sethmcnabb00@gmail.com
